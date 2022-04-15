@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  background-color: lightgray;
+}
+
+img {
+  width: 100%;
+  vertical-align: top;
+}
+
+header {
+  padding: 15px 0;
+  background-color: white;
+}
+
+h1 {
+  margin: 0;
+}
+
+.container {
+  max-width: 40%;
+  margin: 0 auto;
+}
